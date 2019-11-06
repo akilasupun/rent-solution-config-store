@@ -1,0 +1,5 @@
+prop:
+    propId: carService-Base-Id
+    propVal: carService-Base-Val
+server:
+  port: 8600

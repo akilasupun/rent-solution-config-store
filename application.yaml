@@ -1,3 +1,5 @@
 prop:
     propId: globalId
     propVal: globalVal
+server:
+  port: 8500

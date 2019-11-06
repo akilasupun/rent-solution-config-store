@@ -1,0 +1,5 @@
+prop:
+    propId: carService-Qa-Id
+    propVal: carService-Qa-Val
+server:
+  port: 8800
