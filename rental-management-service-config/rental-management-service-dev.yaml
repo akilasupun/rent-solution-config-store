@@ -1,0 +1,5 @@
+prop:
+    propId: carService-Dev-Id
+    propVal: carService-Dev-Val
+server:
+  port: 8700

@@ -1,0 +1,5 @@
+prop:
+    propId: carService-Prod-Id
+    propVal: carService-Prod-Val
+server:
+  port: 8900
