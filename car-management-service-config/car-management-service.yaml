@@ -1,3 +1,10 @@
-prop:
-    propId: carService-Base-Id
-    propVal: carService-Base-Val
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/car_info_db
+    password: dumith
+    username: dumith
+    initialization-mode: always
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
